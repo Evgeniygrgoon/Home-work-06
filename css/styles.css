@@ -297,10 +297,10 @@ ol[class] {
 
 /* блок героя */
 .hero-block {
-  background-image:
+  background-color: var(--dark-background);
+   background-image:
    linear-gradient(to bottom, rgba(47, 48, 58, 0.4)),
    url(../images/img-background.jpg);
-  background-color: var(--dark-background);
   height: 600px;
   width: 1600px;
   margin: 0% auto;
